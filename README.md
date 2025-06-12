@@ -7,8 +7,8 @@
   `java -jar <파일명>.jar`
   명령어로 바로 실행 가능
 
-  배포 주소 : 3.35.49.129:8080
-  swagger : 3.35.49.129:8080/swagger-ui/index.html
+  * 배포 주소 : 3.35.49.129:8080
+  * swagger : 3.35.49.129:8080/swagger-ui/index.html
 
 ---
 
